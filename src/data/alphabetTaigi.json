@@ -111,7 +111,11 @@
               "twl": "mn̂g"
             },
             "audio": "sutiau-mp3/4/4495(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "門",
+              "en": "door"
+            }
           },
           {
             "text": {
@@ -119,7 +123,11 @@
               "twl": "miâ-jī"
             },
             "audio": "sutiau-mp3/2/2161(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "名字",
+              "en": "name"
+            }
           }
         ]
       },
@@ -134,7 +142,11 @@
               "twl": "bí"
             },
             "audio": "sutiau-mp3/2/2587(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "米",
+              "en": "rice"
+            }
           },
           {
             "text": {
@@ -142,7 +154,11 @@
               "twl": "bah"
             },
             "audio": "sutiau-mp3/2/2595(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "肉",
+              "en": "meat"
+            }
           },
           {
             "text": {
@@ -150,7 +166,11 @@
               "twl": "ba̍k-bâi"
             },
             "audio": "sutiau-mp3/1/1926(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "眉毛",
+              "en": "eyebrow"
+            }
           }
         ]
       },
@@ -165,7 +185,11 @@
               "twl": "tê"
             },
             "audio": "sutiau-mp3/6/6537(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "茶",
+              "en": "tea"
+            }
           },
           {
             "text": {
@@ -173,7 +197,11 @@
               "twl": "ti"
             },
             "audio": "sutiau-mp3/11/11384(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "豬",
+              "en": "pig"
+            }
           },
           {
             "text": {
@@ -181,7 +209,11 @@
               "twl": "tē-tôo"
             },
             "audio": "sutiau-mp3/23/23582(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "地圖",
+              "en": "map"
+            }
           }
         ]
       },
@@ -196,7 +228,11 @@
               "twl": "thng"
             },
             "audio": "sutiau-mp3/8/8549(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "湯",
+              "en": "soup"
+            }
           },
           {
             "text": {
@@ -204,7 +240,11 @@
               "twl": "thiàu-bú"
             },
             "audio": "sutiau-mp3/10/10230(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "跳舞",
+              "en": "to dance"
+            }
           },
           {
             "text": {
@@ -212,7 +252,11 @@
               "twl": "thài-thài"
             },
             "audio": "sutiau-mp3/0/849(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "太太",
+              "en": "Mrs."
+            }
           }
         ]
       },
@@ -227,7 +271,11 @@
               "twl": "niau"
             },
             "audio": "sutiau-mp3/11/11905(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "貓",
+              "en": "cat"
+            }
           },
           {
             "text": {
@@ -235,7 +283,11 @@
               "twl": "kin-nî"
             },
             "audio": "sutiau-mp3/0/647(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "今年",
+              "en": "this year"
+            }
           },
           {
             "text": {
@@ -243,7 +295,11 @@
               "twl": "nâ-kiû"
             },
             "audio": "sutiau-mp3/12/12996(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "籃球",
+              "en": "basketball"
+            }
           }
         ]
       },
@@ -258,7 +314,11 @@
               "twl": "lo̍k"
             },
             "audio": "sutiau-mp3/8/8086(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鹿",
+              "en": "deer"
+            }
           },
           {
             "text": {
@@ -266,7 +326,11 @@
               "twl": "lāu-lâng"
             },
             "audio": "sutiau-mp3/2/2611(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "老人",
+              "en": "old people"
+            }
           },
           {
             "text": {
@@ -274,7 +338,11 @@
               "twl": "liû-liân"
             },
             "audio": "sutiau-mp3/10/10598(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "en": "durian",
+              "zh-tw": "榴槤"
+            }
           }
         ]
       },
@@ -289,7 +357,11 @@
               "twl": "káu"
             },
             "audio": "sutiau-mp3/4/4329(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "狗",
+              "en": "dog"
+            }
           },
           {
             "text": {
@@ -297,7 +369,11 @@
               "twl": "kok-ka"
             },
             "audio": "sutiau-mp3/22/22125(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "國家",
+              "en": "country"
+            }
           },
           {
             "text": {
@@ -305,7 +381,11 @@
               "twl": "ke-nn̄g-ko"
             },
             "audio": "sutiau-mp3/12/12682(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "蛋糕",
+              "en": "cake"
+            }
           }
         ]
       },
@@ -320,7 +400,11 @@
               "twl": "kha"
             },
             "audio": "sutiau-mp3/10/10059(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "腳",
+              "en": "foot"
+            }
           },
           {
             "text": {
@@ -328,7 +412,11 @@
               "twl": "khòo"
             },
             "audio": "sutiau-mp3/11/11886(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "褲",
+              "en": "pants"
+            }
           },
           {
             "text": {
@@ -336,7 +424,11 @@
               "twl": "khang-khuè"
             },
             "audio": "sutiau-mp3/0/519(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "工作",
+              "en": "work"
+            }
           }
         ]
       },
@@ -351,7 +443,11 @@
               "twl": "gû"
             },
             "audio": "sutiau-mp3/1/1218(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "牛",
+              "en": "cow"
+            }
           },
           {
             "text": {
@@ -359,7 +455,11 @@
               "twl": "gue̍h-niû"
             },
             "audio": "leku-mp3/0/803-1-1",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "月亮",
+              "en": "moon"
+            }
           },
           {
             "text": {
@@ -367,7 +467,11 @@
               "twl": "gí-giân"
             },
             "audio": "sutiau-mp3/10/10833(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "語言",
+              "en": "language"
+            }
           }
         ]
       },
@@ -382,7 +486,11 @@
               "twl": "ngeh-á"
             },
             "audio": "sutiau-mp3/3/3027(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "夾子",
+              "en": "clip"
+            }
           },
           {
             "text": {
@@ -390,7 +498,11 @@
               "twl": "ngóo-kuan"
             },
             "audio": "sutiau-mp3/26/26010(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "五官",
+              "en": "facial features"
+            }
           },
           {
             "text": {
@@ -398,7 +510,11 @@
               "twl": "ngiâ-sîn"
             },
             "audio": "sutiau-mp3/4/4589(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "en": "to welcome the deities",
+              "zh-tw": "迎神"
+            }
           }
         ]
       },
@@ -413,7 +529,11 @@
               "twl": "hóo"
             },
             "audio": "sutiau-mp3/4/4482(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "虎",
+              "en": "tiger"
+            }
           },
           {
             "text": {
@@ -421,7 +541,11 @@
               "twl": "hong"
             },
             "audio": "sutiau-mp3/5/5567(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "風",
+              "en": "wind"
+            }
           },
           {
             "text": {
@@ -429,7 +553,11 @@
               "twl": "hái-huānn"
             },
             "audio": "sutiau-mp3/6/6175(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "海岸",
+              "en": "seashore"
+            }
           }
         ]
       },
@@ -444,7 +572,11 @@
               "twl": "tsînn"
             },
             "audio": "sutiau-mp3/11/11988(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "錢",
+              "en": "money"
+            }
           },
           {
             "text": {
@@ -452,7 +584,11 @@
               "twl": "tsuá"
             },
             "audio": "sutiau-mp3/6/6477(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "紙",
+              "en": "paper"
+            }
           },
           {
             "text": {
@@ -460,7 +596,11 @@
               "twl": "tsū-tsí"
             },
             "audio": "sutiau-mp3/2/2896(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "住址",
+              "en": "address"
+            }
           }
         ]
       },
@@ -475,7 +615,11 @@
               "twl": "tshia"
             },
             "audio": "sutiau-mp3/3/3394(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "車",
+              "en": "car, vehicles"
+            }
           },
           {
             "text": {
@@ -483,7 +627,11 @@
               "twl": "tshiū-á"
             },
             "audio": "sutiau-mp3/11/11706(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "樹",
+              "en": "tree"
+            }
           },
           {
             "text": {
@@ -491,7 +639,11 @@
               "twl": "tshenn-tshài"
             },
             "audio": "sutiau-mp3/4/4617(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "青菜",
+              "en": "vegetables"
+            }
           }
         ]
       },
@@ -506,7 +658,11 @@
               "twl": "sai"
             },
             "audio": "sutiau-mp3/9/9721(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "獅",
+              "en": "lion"
+            }
           },
           {
             "text": {
@@ -514,7 +670,11 @@
               "twl": "só-sî"
             },
             "audio": "sutiau-mp3/12/12701(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "鑰匙",
+              "en": "key"
+            }
           },
           {
             "text": {
@@ -522,7 +682,11 @@
               "twl": "si̍k-sū"
             },
             "audio": "sutiau-mp3/10/10663(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "碩士",
+              "en": "master's degree"
+            }
           }
         ]
       },
@@ -537,7 +701,11 @@
               "twl": "jī"
             },
             "audio": "sutiau-mp3/2/2276(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "字",
+              "en": "word"
+            }
           },
           {
             "text": {
@@ -545,7 +713,11 @@
               "twl": "ji̍t-thâu"
             },
             "audio": "sutiau-mp3/1/1168(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "太陽",
+              "en": "sun"
+            }
           },
           {
             "text": {
@@ -553,7 +725,11 @@
               "twl": "jia̍t-tsîng"
             },
             "audio": "sutiau-mp3/22/22893(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "熱情",
+              "en": "enthusiasm"
+            }
           }
         ]
       }
@@ -579,7 +755,11 @@
               "twl": "a-má"
             },
             "audio": "sutiau-mp3/4/4621(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "奶奶",
+              "en": "grandma"
+            }
           },
           {
             "text": {
@@ -587,7 +767,11 @@
               "twl": "pà"
             },
             "audio": "sutiau-mp3/6/6669(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "豹",
+              "en": "leopard"
+            }
           },
           {
             "text": {
@@ -595,7 +779,11 @@
               "twl": "tá-má-ka"
             },
             "audio": "sutiau-mp3/1/1754(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "柏油",
+              "en": "asphalt"
+            }
           }
         ]
       },
@@ -610,7 +798,11 @@
               "twl": "i-su"
             },
             "audio": "sutiau-mp3/22/22183(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "醫師",
+              "en": "doctor"
+            }
           },
           {
             "text": {
@@ -618,7 +810,11 @@
               "twl": "í-á"
             },
             "audio": "sutiau-mp3/8/8492(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "椅子",
+              "en": "chair"
+            }
           },
           {
             "text": {
@@ -626,7 +822,11 @@
               "twl": "bí-lē"
             },
             "audio": "sutiau-mp3/5/5445(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "美麗",
+              "en": "beauty"
+            }
           }
         ]
       },
@@ -641,7 +841,11 @@
               "twl": "u-jiám"
             },
             "audio": "sutiau-mp3/23/23591(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "汙染",
+              "en": "pollution"
+            }
           },
           {
             "text": {
@@ -649,7 +853,11 @@
               "twl": "kha-thâu-u"
             },
             "audio": "sutiau-mp3/10/10132(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "膝蓋",
+              "en": "knee"
+            }
           },
           {
             "text": {
@@ -657,7 +865,11 @@
               "twl": "kong-gū"
             },
             "audio": "sutiau-mp3/0/723(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "公寓",
+              "en": "appartment"
+            }
           }
         ]
       },
@@ -671,8 +883,12 @@
               "twh": "鞋仔",
               "twl": "ê-á"
             },
-            "audio": "",
-            "seq": 1
+            "audio": "record/A-9",
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鞋子",
+              "en": "shoes"
+            }
           },
           {
             "text": {
@@ -680,7 +896,11 @@
               "twl": "ke-bó"
             },
             "audio": "sutiau-mp3/12/12670(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "母雞",
+              "en": "hen"
+            }
           },
           {
             "text": {
@@ -688,7 +908,11 @@
               "twl": "Se-iûnn"
             },
             "audio": "sutiau-mp3/2/2842(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "西洋",
+              "en": "western"
+            }
           }
         ]
       },
@@ -703,7 +927,11 @@
               "twl": "ô-á"
             },
             "audio": "sutiau-mp3/7/7820(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "牡蠣",
+              "en": "oyster"
+            }
           },
           {
             "text": {
@@ -711,7 +939,11 @@
               "twl": "o-ló"
             },
             "audio": "sutiau-mp3/3/3718(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "讚美",
+              "en": "to praise"
+            }
           },
           {
             "text": {
@@ -719,7 +951,11 @@
               "twl": "ka-to"
             },
             "audio": "sutiau-mp3/10/10866(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "剪刀",
+              "en": "scissors"
+            }
           }
         ]
       },
@@ -734,7 +970,11 @@
               "twl": "ōo-á"
             },
             "audio": "sutiau-mp3/3/3408(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "芋頭",
+              "en": "taro"
+            }
           },
           {
             "text": {
@@ -742,7 +982,11 @@
               "twl": "oo-sô-sô"
             },
             "audio": "sutiau-mp3/6/6307(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "黑黑的",
+              "en": "black"
+            }
           },
           {
             "text": {
@@ -750,7 +994,11 @@
               "twl": "hiunn-koo"
             },
             "audio": "sutiau-mp3/5/5640(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "香菇",
+              "en": "mushroom"
+            }
           }
         ]
       }
@@ -760,8 +1008,7 @@
       "twh": "單韻母",
       "twl": "tan-ūn-bó",
       "zh-tw": "單韻母"
-    },
-    "updatedTime": "2026-07-24T13:55:53.110121"
+    }
   },
   {
     "id": 16,
@@ -778,7 +1025,11 @@
               "twl": "ài-jîn"
             },
             "audio": "sutiau-mp3/24/24329(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "en": "beloved",
+              "zh-tw": "愛人"
+            }
           },
           {
             "text": {
@@ -786,7 +1037,11 @@
               "twl": "lâi-á"
             },
             "audio": "sutiau-mp3/7/7478(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "梨子",
+              "en": "pear"
+            }
           },
           {
             "text": {
@@ -794,7 +1049,11 @@
               "twl": "sai-nai"
             },
             "audio": "sutiau-mp3/1/1456(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "撒嬌",
+              "en": "to behave in a spoiled manner"
+            }
           }
         ]
       },
@@ -809,7 +1068,11 @@
               "twl": "au-á"
             },
             "audio": "sutiau-mp3/11/11784(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "茶杯",
+              "en": "cup"
+            }
           },
           {
             "text": {
@@ -817,7 +1080,11 @@
               "twl": "lâu-thui"
             },
             "audio": "sutiau-mp3/11/11172(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "樓梯",
+              "en": "stairs"
+            }
           },
           {
             "text": {
@@ -825,7 +1092,11 @@
               "twl": "âng-pau"
             },
             "audio": "sutiau-mp3/5/5387(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "紅包",
+              "en": "envelope"
+            }
           }
         ]
       },
@@ -840,7 +1111,11 @@
               "twl": "iā-tshī"
             },
             "audio": "sutiau-mp3/3/3773(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "夜市",
+              "en": "night market"
+            }
           },
           {
             "text": {
@@ -848,7 +1123,11 @@
               "twl": "káu-hiā"
             },
             "audio": "sutiau-mp3/4/4367(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "螞蟻",
+              "en": "ant"
+            }
           },
           {
             "text": {
@@ -856,7 +1135,11 @@
               "twl": "khiâ-tshia"
             },
             "audio": "sutiau-mp3/25/25397(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "騎車",
+              "en": "to ride a scooter"
+            }
           }
         ]
       },
@@ -871,7 +1154,11 @@
               "twl": "iû"
             },
             "audio": "sutiau-mp3/4/4254(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "油",
+              "en": "oil"
+            }
           },
           {
             "text": {
@@ -879,7 +1166,11 @@
               "twl": "tshiu-thinn"
             },
             "audio": "sutiau-mp3/23/23907(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "秋天",
+              "en": "fall, autumn"
+            }
           },
           {
             "text": {
@@ -887,7 +1178,11 @@
               "twl": "liú-ting"
             },
             "audio": "sutiau-mp3/5/5078(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "柳丁",
+              "en": "orange"
+            }
           }
         ]
       },
@@ -902,7 +1197,11 @@
               "twl": "io"
             },
             "audio": "sutiau-mp3/9/9857(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "腰",
+              "en": "waist"
+            }
           },
           {
             "text": {
@@ -910,7 +1209,11 @@
               "twl": "king-tsio"
             },
             "audio": "sutiau-mp3/0/529(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "香蕉",
+              "en": "banana"
+            }
           },
           {
             "text": {
@@ -918,7 +1221,11 @@
               "twl": "biō-kháu"
             },
             "audio": "sutiau-mp3/19/19448(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "廟口",
+              "en": "area in front of a temple"
+            }
           }
         ]
       },
@@ -933,7 +1240,11 @@
               "twl": "tsuâ"
             },
             "audio": "sutiau-mp3/7/7818(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "蛇",
+              "en": "snake"
+            }
           },
           {
             "text": {
@@ -941,7 +1252,11 @@
               "twl": "guá"
             },
             "audio": "sutiau-mp3/3/3139(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "我",
+              "en": "I, me"
+            }
           },
           {
             "text": {
@@ -949,7 +1264,11 @@
               "twl": "sua-hî"
             },
             "audio": "sutiau-mp3/12/12764(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "鯊魚",
+              "en": "shark"
+            }
           }
         ]
       },
@@ -964,7 +1283,11 @@
               "twl": "uī"
             },
             "audio": "sutiau-mp3/5/5372(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "胃",
+              "en": "stomach"
+            }
           },
           {
             "text": {
@@ -972,7 +1295,11 @@
               "twl": "sio-tsuí"
             },
             "audio": "sutiau-mp3/11/11780(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "熱水",
+              "en": "hot water"
+            }
           },
           {
             "text": {
@@ -980,7 +1307,11 @@
               "twl": "kuí"
             },
             "audio": "sutiau-mp3/6/6803(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "鬼",
+              "en": "ghost"
+            }
           }
         ]
       },
@@ -995,7 +1326,11 @@
               "twl": "hue"
             },
             "audio": "sutiau-mp3/4/4426(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "花",
+              "en": "flower"
+            }
           },
           {
             "text": {
@@ -1003,7 +1338,11 @@
               "twl": "uē-tôo"
             },
             "audio": "sutiau-mp3/26/26493(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "畫圖",
+              "en": "to draw"
+            }
           },
           {
             "text": {
@@ -1011,7 +1350,11 @@
               "twl": "kué-tsí"
             },
             "audio": "sutiau-mp3/4/4196(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "水果",
+              "en": "fruits"
+            }
           }
         ]
       },
@@ -1026,7 +1369,11 @@
               "twl": "pak-tóo-iau"
             },
             "audio": "sutiau-mp3/9/9909(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "肚子餓",
+              "en": "hungry"
+            }
           },
           {
             "text": {
@@ -1034,7 +1381,11 @@
               "twl": "siàu-liân"
             },
             "audio": "sutiau-mp3/0/896(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "年輕",
+              "en": "young"
+            }
           },
           {
             "text": {
@@ -1042,7 +1393,11 @@
               "twl": "iau-kiau"
             },
             "audio": "sutiau-mp3/3/3120(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "妖豔嬌媚",
+              "en": "Seductive and charming"
+            }
           }
         ]
       },
@@ -1057,7 +1412,11 @@
               "twl": "uai"
             },
             "audio": "sutiau-mp3/5/5119(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "歪",
+              "en": "crooked"
+            }
           },
           {
             "text": {
@@ -1065,7 +1424,11 @@
               "twl": "kuái-á"
             },
             "audio": "sutiau-mp3/5/5082(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "拐杖",
+              "en": "crutch"
+            }
           },
           {
             "text": {
@@ -1073,7 +1436,11 @@
               "twl": "khuài-tshia"
             },
             "audio": "sutiau-mp3/3/3165(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "快車",
+              "en": "express train"
+            }
           }
         ]
       }
@@ -1083,8 +1450,7 @@
       "twh": "複韻母",
       "twl": "ho̍k-ūn-bó",
       "zh-tw": "複韻母"
-    },
-    "updatedTime": "2026-07-25T00:56:31.997383"
+    }
   },
   {
     "id": 25,
@@ -1101,7 +1467,11 @@
               "twl": "a-ḿ"
             },
             "audio": "sutiau-mp3/4/4554(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "伯母",
+              "en": "aunt"
+            }
           },
           {
             "text": {
@@ -1109,7 +1479,11 @@
               "twl": "tsháu-m̂"
             },
             "audio": "sutiau-mp3/24/24543(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "草莓",
+              "en": "strawberry"
+            }
           },
           {
             "text": {
@@ -1117,7 +1491,11 @@
               "twl": "m̄-tio̍h"
             },
             "audio": "sutiau-mp3/1/1089(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "不對",
+              "en": "not correct"
+            }
           }
         ]
       },
@@ -1132,7 +1510,11 @@
               "twl": "n̂g-sik"
             },
             "audio": "sutiau-mp3/9/9236(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "黃色",
+              "en": "yellow"
+            }
           },
           {
             "text": {
@@ -1140,7 +1522,11 @@
               "twl": "bîn-tshn̂g"
             },
             "audio": "sutiau-mp3/6/6389(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "床",
+              "en": "bed"
+            }
           },
           {
             "text": {
@@ -1148,7 +1534,11 @@
               "twl": "nn̄g-jîn"
             },
             "audio": "sutiau-mp3/2/2973(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "蛋黃",
+              "en": "yolk"
+            }
           }
         ]
       }
@@ -1174,7 +1564,11 @@
               "twl": "sann"
             },
             "audio": "sutiau-mp3/5/5490(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "衣服",
+              "en": "clothes"
+            }
           },
           {
             "text": {
@@ -1182,7 +1576,11 @@
               "twl": "ānn-piánn"
             },
             "audio": "sutiau-mp3/12/12078(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "餡餅",
+              "en": "pie"
+            }
           },
           {
             "text": {
@@ -1190,7 +1588,11 @@
               "twl": "m̄ kánn"
             },
             "audio": "sutiau-mp3/1/1072(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "不敢",
+              "en": "not dare"
+            }
           }
         ]
       },
@@ -1205,7 +1607,11 @@
               "twl": "hīnn-á"
             },
             "audio": "sutiau-mp3/2/2633(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "耳朵",
+              "en": "ear"
+            }
           },
           {
             "text": {
@@ -1213,7 +1619,11 @@
               "twl": "hún-înn"
             },
             "audio": "sutiau-mp3/6/6456(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "en": "tapioca pearls",
+              "zh-tw": "粉圓"
+            }
           },
           {
             "text": {
@@ -1221,7 +1631,11 @@
               "twl": "tshun-thinn"
             },
             "audio": "sutiau-mp3/5/5000(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "春天",
+              "en": "spring"
+            }
           }
         ]
       },
@@ -1236,7 +1650,11 @@
               "twl": "enn-á"
             },
             "audio": "sutiau-mp3/12/12150(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "嬰兒",
+              "en": "baby"
+            }
           },
           {
             "text": {
@@ -1244,7 +1662,11 @@
               "twl": "tshenn-sik"
             },
             "audio": "sutiau-mp3/4/4535(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "綠色",
+              "en": "green"
+            }
           },
           {
             "text": {
@@ -1252,7 +1674,11 @@
               "twl": "phuà-pēnn"
             },
             "audio": "sutiau-mp3/6/6401(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "生病",
+              "en": "to get sick"
+            }
           }
         ]
       },
@@ -1267,7 +1693,11 @@
               "twl": "kônn"
             },
             "audio": "sutiau-mp3/12/12452(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "打呼",
+              "en": "to snore"
+            }
           },
           {
             "text": {
@@ -1275,7 +1705,11 @@
               "twl": "hònn-hiân"
             },
             "audio": "sutiau-mp3/14/14002(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "好奇",
+              "en": "curious"
+            }
           },
           {
             "text": {
@@ -1283,7 +1717,11 @@
               "twl": "onn-onn-khùn"
             },
             "audio": "sutiau-mp3/5/5833(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "睡覺",
+              "en": "to sleep"
+            }
           }
         ]
       },
@@ -1298,7 +1736,11 @@
               "twl": "phāinn"
             },
             "audio": "sutiau-mp3/8/8412(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "背",
+              "en": "to carry on back"
+            }
           },
           {
             "text": {
@@ -1306,7 +1748,11 @@
               "twl": "jī-tsáinn"
             },
             "audio": "sutiau-mp3/0/115(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "en": "index finger",
+              "zh-tw": "食指"
+            }
           },
           {
             "text": {
@@ -1314,7 +1760,11 @@
               "twl": "kainn"
             },
             "audio": "sutiau-mp3/8/8167(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "叫",
+              "en": "to scream"
+            }
           }
         ]
       },
@@ -1329,7 +1779,11 @@
               "twl": "kiànn"
             },
             "audio": "sutiau-mp3/12/12897(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鏡子",
+              "en": "mirror"
+            }
           },
           {
             "text": {
@@ -1337,7 +1791,11 @@
               "twl": "tiān-iánn"
             },
             "audio": "sutiau-mp3/10/10336(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "電影",
+              "en": "movie"
+            }
           },
           {
             "text": {
@@ -1345,7 +1803,11 @@
               "twl": "kheh-thiann"
             },
             "audio": "sutiau-mp3/4/4895(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "客廳",
+              "en": "living room"
+            }
           }
         ]
       },
@@ -1360,7 +1822,11 @@
               "twl": "iûnn"
             },
             "audio": "sutiau-mp3/2/2588(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "羊",
+              "en": "lamb"
+            }
           },
           {
             "text": {
@@ -1368,7 +1834,11 @@
               "twl": "tshiùnn-kua"
             },
             "audio": "sutiau-mp3/24/24560(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "唱歌",
+              "en": "to sing"
+            }
           },
           {
             "text": {
@@ -1376,7 +1846,11 @@
               "twl": "ping-siunn"
             },
             "audio": "sutiau-mp3/2/2247(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "冰箱",
+              "en": "refrigerator"
+            }
           }
         ]
       },
@@ -1391,7 +1865,11 @@
               "twl": "uánn"
             },
             "audio": "sutiau-mp3/9/9775(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "碗",
+              "en": "bowl"
+            }
           },
           {
             "text": {
@@ -1399,7 +1877,11 @@
               "twl": "suann-tíng"
             },
             "audio": "sutiau-mp3/0/438(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "山頂",
+              "en": "mountaintop"
+            }
           },
           {
             "text": {
@@ -1407,7 +1889,11 @@
               "twl": "kuânn--lâng"
             },
             "audio": "sutiau-mp3/8/8294(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "冬天",
+              "en": "winter"
+            }
           }
         ]
       },
@@ -1422,7 +1908,11 @@
               "twl": "suāinn-á"
             },
             "audio": "sutiau-mp3/12/12189(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "芒果",
+              "en": "mango"
+            }
           },
           {
             "text": {
@@ -1430,7 +1920,11 @@
               "twl": "ōo-huâinn"
             },
             "audio": "sutiau-mp3/3/3462(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "芋莖",
+              "en": "taro stalk"
+            }
           },
           {
             "text": {
@@ -1438,7 +1932,11 @@
               "twl": "tshìng-kuáinn"
             },
             "audio": "leku-mp3/7/7442-1-1",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "槍桿",
+              "en": "gun barrel"
+            }
           }
         ]
       }
@@ -1447,7 +1945,7 @@
       "en": "nasal vowels",
       "twh": "鼻音韻母 (-nn)",
       "twl": "phīnn-im ūn-bó",
-      "zh-tw": "鼻音韻母"
+      "zh-tw": "鼻音韻母 (-nn)"
     }
   },
   {
@@ -1464,7 +1962,11 @@
               "twl": "bāng-tsām"
             },
             "audio": "sutiau-mp3/22/22178(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "網站",
+              "en": "website"
+            }
           },
           {
             "text": {
@@ -1472,7 +1974,11 @@
               "twl": "am-kue"
             },
             "audio": "sutiau-mp3/11/11490(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "en": "pickled melon",
+              "zh-tw": "醃瓜"
+            }
           },
           {
             "text": {
@@ -1480,7 +1986,11 @@
               "twl": "lâm-hong"
             },
             "audio": "sutiau-mp3/23/23473(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "南方",
+              "en": "south side"
+            }
           }
         ]
       },
@@ -1495,7 +2005,11 @@
               "twl": "hîm"
             },
             "audio": "sutiau-mp3/10/10645(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "熊",
+              "en": "bear"
+            }
           },
           {
             "text": {
@@ -1503,7 +2017,11 @@
               "twl": "im-ga̍k"
             },
             "audio": "sutiau-mp3/22/22144(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "音樂",
+              "en": "music"
+            }
           },
           {
             "text": {
@@ -1511,7 +2029,11 @@
               "twl": "ài-sim"
             },
             "audio": "sutiau-mp3/24/24891(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "愛心",
+              "en": "heart"
+            }
           }
         ]
       },
@@ -1526,7 +2048,11 @@
               "twl": "ōm"
             },
             "audio": "sutiau-mp3/5/5454(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "茂盛",
+              "en": "flourishing"
+            }
           },
           {
             "text": {
@@ -1534,7 +2060,11 @@
               "twl": "kuì-som-som"
             },
             "audio": "sutiau-mp3/9/9080(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "很貴",
+              "en": "very expensive"
+            }
           }
         ]
       },
@@ -1549,7 +2079,11 @@
               "twl": "iâm"
             },
             "audio": "sutiau-mp3/13/13354(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鹽",
+              "en": "salt"
+            }
           },
           {
             "text": {
@@ -1557,7 +2091,11 @@
               "twl": "hiam-tsio-á"
             },
             "audio": "sutiau-mp3/12/12358(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "辣椒",
+              "en": "chili"
+            }
           },
           {
             "text": {
@@ -1565,7 +2103,11 @@
               "twl": "tē-tiám"
             },
             "audio": "sutiau-mp3/2/2416(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "地點",
+              "en": "place"
+            }
           }
         ]
       }
@@ -1574,7 +2116,7 @@
       "en": "ending nasal sounds",
       "twh": "鼻音韻尾 (-m)",
       "twl": "phīnn-im ūn-bué",
-      "zh-tw": "鼻音韻尾"
+      "zh-tw": "鼻音韻尾 (-m)"
     }
   },
   {
@@ -1591,7 +2133,11 @@
               "twl": "an-tsuân"
             },
             "audio": "sutiau-mp3/22/22169(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "安全",
+              "en": "safety"
+            }
           },
           {
             "text": {
@@ -1599,7 +2145,11 @@
               "twl": "kán-tan"
             },
             "audio": "sutiau-mp3/12/12575(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "簡單",
+              "en": "simple"
+            }
           },
           {
             "text": {
@@ -1607,7 +2157,11 @@
               "twl": "sán"
             },
             "audio": "sutiau-mp3/11/11208(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "瘦",
+              "en": "thin"
+            }
           }
         ]
       },
@@ -1622,7 +2176,11 @@
               "twl": "sin-bûn"
             },
             "audio": "sutiau-mp3/9/9547(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "新聞",
+              "en": "news"
+            }
           },
           {
             "text": {
@@ -1630,7 +2188,11 @@
               "twl": "gîn-hâng"
             },
             "audio": "sutiau-mp3/10/10876(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "銀行",
+              "en": "bank"
+            }
           },
           {
             "text": {
@@ -1638,7 +2200,11 @@
               "twl": "jīn-tsin"
             },
             "audio": "sutiau-mp3/10/10838(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "認真",
+              "en": "serious"
+            }
           }
         ]
       },
@@ -1653,7 +2219,11 @@
               "twl": "un-tsuânn"
             },
             "audio": "sutiau-mp3/9/9654(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "溫泉",
+              "en": "hot spring"
+            }
           },
           {
             "text": {
@@ -1661,7 +2231,11 @@
               "twl": "hun"
             },
             "audio": "sutiau-mp3/12/12553(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "菸",
+              "en": "cigarette"
+            }
           },
           {
             "text": {
@@ -1669,7 +2243,11 @@
               "twl": "ām-kún"
             },
             "audio": "sutiau-mp3/12/12082(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "脖子",
+              "en": "neck"
+            }
           }
         ]
       },
@@ -1684,7 +2262,11 @@
               "twl": "ian-hué"
             },
             "audio": "sutiau-mp3/9/9697(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "煙火",
+              "en": "fireworks"
+            }
           },
           {
             "text": {
@@ -1692,7 +2274,11 @@
               "twl": "jī-tián"
             },
             "audio": "sutiau-mp3/2/2335(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "字典",
+              "en": "dictionary"
+            }
           },
           {
             "text": {
@@ -1700,7 +2286,11 @@
               "twl": "kiān-khong"
             },
             "audio": "sutiau-mp3/6/6975(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "健康",
+              "en": "health"
+            }
           }
         ]
       },
@@ -1715,15 +2305,23 @@
               "twl": "suàn-thâu"
             },
             "audio": "sutiau-mp3/10/10798(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "蒜頭",
+              "en": "gralic"
+            }
           },
           {
             "text": {
               "twh": "臺灣",
               "twl": "Tâi-uân"
             },
-            "audio": "",
-            "seq": 2
+            "audio": "record/A-10",
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "臺灣",
+              "en": "Taiwan"
+            }
           },
           {
             "text": {
@@ -1731,7 +2329,11 @@
               "twl": "uan-ke"
             },
             "audio": "sutiau-mp3/5/5747(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "吵架",
+              "en": "to argue"
+            }
           }
         ]
       }
@@ -1740,7 +2342,7 @@
       "en": "ending nasal sounds",
       "twh": "鼻音韻尾 (-n) ",
       "twl": "phīnn-im ūn-bué",
-      "zh-tw": "鼻音韻尾"
+      "zh-tw": "鼻音韻尾 (-n)"
     }
   },
   {
@@ -1757,7 +2359,11 @@
               "twl": "âng-sik"
             },
             "audio": "sutiau-mp3/5/5393(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "紅色",
+              "en": "red"
+            }
           },
           {
             "text": {
@@ -1765,7 +2371,11 @@
               "twl": "báng-á"
             },
             "audio": "sutiau-mp3/13/13012(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "蚊子",
+              "en": "mosquito"
+            }
           },
           {
             "text": {
@@ -1773,7 +2383,11 @@
               "twl": "tshang-thâu"
             },
             "audio": "sutiau-mp3/11/11345(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "洋蔥",
+              "en": "onion"
+            }
           }
         ]
       },
@@ -1788,7 +2402,11 @@
               "twl": "ing-hue"
             },
             "audio": "sutiau-mp3/13/13098(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "櫻花",
+              "en": "cherry blossoms"
+            }
           },
           {
             "text": {
@@ -1796,7 +2414,11 @@
               "twl": "sim-tsîng"
             },
             "audio": "sutiau-mp3/1/1047(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "心情",
+              "en": "mood"
+            }
           },
           {
             "text": {
@@ -1804,7 +2426,11 @@
               "twl": "khìng-tsiok"
             },
             "audio": "sutiau-mp3/11/11073(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "慶祝",
+              "en": "to celebrate"
+            }
           }
         ]
       },
@@ -1819,7 +2445,11 @@
               "twl": "ông-lâi"
             },
             "audio": "sutiau-mp3/1/1260(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鳳梨",
+              "en": "pineapple"
+            }
           },
           {
             "text": {
@@ -1827,7 +2457,11 @@
               "twl": "pōng-khang"
             },
             "audio": "sutiau-mp3/11/11259(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "隧道",
+              "en": "tunnel"
+            }
           },
           {
             "text": {
@@ -1835,7 +2469,11 @@
               "twl": "sóng"
             },
             "audio": "sutiau-mp3/7/7568(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "爽",
+              "en": "feeling good"
+            }
           }
         ]
       },
@@ -1850,7 +2488,11 @@
               "twl": "liâng-tsuí"
             },
             "audio": "sutiau-mp3/7/7477(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "飲料",
+              "en": "drinks"
+            }
           },
           {
             "text": {
@@ -1858,7 +2500,11 @@
               "twl": "siang-senn-á"
             },
             "audio": "sutiau-mp3/12/12675(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "雙胞胎",
+              "en": "twins"
+            }
           },
           {
             "text": {
@@ -1866,7 +2512,11 @@
               "twl": "hiang-iû"
             },
             "audio": "sutiau-mp3/5/5600(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "香油",
+              "en": "sesame oil"
+            }
           }
         ]
       },
@@ -1881,7 +2531,11 @@
               "twl": "ko-tiong"
             },
             "audio": "sutiau-mp3/6/6808(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "高中",
+              "en": "senior high school"
+            }
           },
           {
             "text": {
@@ -1889,7 +2543,11 @@
               "twl": "tsióng-kim"
             },
             "audio": "sutiau-mp3/11/11223(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "獎金",
+              "en": "bonus"
+            }
           },
           {
             "text": {
@@ -1897,7 +2555,11 @@
               "twl": "siū-siong"
             },
             "audio": "sutiau-mp3/22/22725(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "受傷",
+              "en": "to get injured"
+            }
           }
         ]
       },
@@ -1912,7 +2574,11 @@
               "twl": "kui-uang-kui-tóng"
             },
             "audio": "sutiau-mp3/14/14295(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "en": "to gang up",
+              "zh-tw": "成群結黨"
+            }
           }
         ]
       }
@@ -1921,7 +2587,7 @@
       "en": "ending nasal sounds",
       "twh": "鼻音韻尾 (-ng)",
       "twl": "phīnn-im ūn-bué",
-      "zh-tw": "鼻音韻尾"
+      "zh-tw": "鼻音韻尾 (-ng)"
     }
   },
   {
@@ -1938,7 +2604,11 @@
               "twl": "ah"
             },
             "audio": "sutiau-mp3/12/12089(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "鴨",
+              "en": "duck"
+            }
           },
           {
             "text": {
@@ -1946,7 +2616,11 @@
               "twl": "la̍h-tsik"
             },
             "audio": "sutiau-mp3/13/13128(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "蠟燭",
+              "en": "candle"
+            }
           },
           {
             "text": {
@@ -1954,7 +2628,11 @@
               "twl": "khah"
             },
             "audio": "sutiau-mp3/1/1390(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "卡",
+              "en": "card"
+            }
           }
         ]
       },
@@ -1969,7 +2647,11 @@
               "twl": "thih-bé"
             },
             "audio": "sutiau-mp3/13/13148(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "腳踏車",
+              "en": "bike"
+            }
           },
           {
             "text": {
@@ -1977,7 +2659,11 @@
               "twl": "mi̍h-kiānn"
             },
             "audio": "sutiau-mp3/4/4343(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "東西",
+              "en": "object"
+            }
           },
           {
             "text": {
@@ -1985,7 +2671,11 @@
               "twl": "tshuì-tsi̍h"
             },
             "audio": "sutiau-mp3/8/8192(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "舌頭",
+              "en": "tongue"
+            }
           }
         ]
       },
@@ -2000,7 +2690,11 @@
               "twl": "phah-eh"
             },
             "audio": "sutiau-mp3/4/4015(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "打嗝",
+              "en": "to hiccup"
+            }
           },
           {
             "text": {
@@ -2008,7 +2702,11 @@
               "twl": "pe̍h-sik"
             },
             "audio": "sutiau-mp3/1/1893(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "白色",
+              "en": "white"
+            }
           },
           {
             "text": {
@@ -2016,7 +2714,11 @@
               "twl": "ang-á-tsheh"
             },
             "audio": "sutiau-mp3/3/3073(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "漫畫",
+              "en": "comic books"
+            }
           }
         ]
       },
@@ -2031,7 +2733,11 @@
               "twl": "suh-kóng"
             },
             "audio": "sutiau-mp3/7/7502(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "吸管",
+              "en": "straws"
+            }
           },
           {
             "text": {
@@ -2039,7 +2745,11 @@
               "twl": "tuh-ku"
             },
             "audio": "sutiau-mp3/5/5296(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "打瞌睡",
+              "en": "to doze off"
+            }
           },
           {
             "text": {
@@ -2047,7 +2757,11 @@
               "twl": "thuh-tshàu"
             },
             "audio": "sutiau-mp3/12/12462(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "en": "to expose other's shortcoming",
+              "zh-tw": "揭人短處"
+            }
           }
         ]
       },
@@ -2062,7 +2776,11 @@
               "twl": "tông-o̍h"
             },
             "audio": "",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "同學",
+              "en": "classmates"
+            }
           },
           {
             "text": {
@@ -2070,7 +2788,11 @@
               "twl": "toh"
             },
             "audio": "sutiau-mp3/6/6092(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "桌子",
+              "en": "table"
+            }
           },
           {
             "text": {
@@ -2078,7 +2800,11 @@
               "twl": "tsoh-sit"
             },
             "audio": "sutiau-mp3/2/2940(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "工作",
+              "en": "to work"
+            }
           }
         ]
       },
@@ -2093,7 +2819,11 @@
               "twl": "ooh"
             },
             "audio": "sutiau-mp3/8/8172(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "喔",
+              "en": "oh"
+            }
           },
           {
             "text": {
@@ -2101,7 +2831,11 @@
               "twl": "bīn-mo̍oh"
             },
             "audio": "sutiau-mp3/23/23479(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "面膜",
+              "en": "facial mask"
+            }
           },
           {
             "text": {
@@ -2109,7 +2843,11 @@
               "twl": "mooh mi̍h-kiānn"
             },
             "audio": "leku-mp3/13/13467-1-2",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "抱東西",
+              "en": "to hold something in arms"
+            }
           }
         ]
       },
@@ -2124,7 +2862,11 @@
               "twl": "jūn-piánn-kauh"
             },
             "audio": "sutiau-mp3/11/11201(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "潤餅捲",
+              "en": "fresh spring roll"
+            }
           },
           {
             "text": {
@@ -2132,7 +2874,11 @@
               "twl": "ta̍uh-ta̍uh-á"
             },
             "audio": "sutiau-mp3/4/4275(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "慢慢的",
+              "en": "slowly"
+            }
           },
           {
             "text": {
@@ -2140,7 +2886,11 @@
               "twl": "mi-mi-mauh-mauh"
             },
             "audio": "sutiau-mp3/12/12283(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "en": "a situation that has been turned into a complete mess",
+              "zh-tw": "一團糟"
+            }
           }
         ]
       },
@@ -2155,7 +2905,11 @@
               "twl": "āu-piah"
             },
             "audio": "sutiau-mp3/4/4968(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "後面",
+              "en": "back side"
+            }
           },
           {
             "text": {
@@ -2163,7 +2917,11 @@
               "twl": "tsia̍h-pn̄g"
             },
             "audio": "leku-mp3/9/9222-1-2",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "吃飯",
+              "en": "to have a meal"
+            }
           },
           {
             "text": {
@@ -2171,7 +2929,11 @@
               "twl": "hó-gia̍h"
             },
             "audio": "sutiau-mp3/2/2418(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "有錢的",
+              "en": "rich"
+            }
           }
         ]
       },
@@ -2186,7 +2948,11 @@
               "twl": "io̍h-á"
             },
             "audio": "sutiau-mp3/12/12843(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "藥",
+              "en": "medecine"
+            }
           },
           {
             "text": {
@@ -2194,7 +2960,11 @@
               "twl": "tsio̍h-thâu"
             },
             "audio": "sutiau-mp3/22/22912(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "石頭",
+              "en": "stone"
+            }
           },
           {
             "text": {
@@ -2202,7 +2972,11 @@
               "twl": "tshiū-hio̍h"
             },
             "audio": "sutiau-mp3/25/25915(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "樹葉",
+              "en": "leaf"
+            }
           }
         ]
       },
@@ -2217,7 +2991,11 @@
               "twl": "thuah-á"
             },
             "audio": "sutiau-mp3/7/7188(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "抽屜",
+              "en": "drawer"
+            }
           },
           {
             "text": {
@@ -2225,7 +3003,11 @@
               "twl": "hioh-jua̍h"
             },
             "audio": "sutiau-mp3/9/9675(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "放暑假",
+              "en": "to have summer breaks"
+            }
           },
           {
             "text": {
@@ -2233,7 +3015,11 @@
               "twl": "pua̍h-tó"
             },
             "audio": "sutiau-mp3/9/9121(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "跌倒",
+              "en": "to fall"
+            }
           }
         ]
       },
@@ -2248,7 +3034,11 @@
               "twl": "lâu-hueh"
             },
             "audio": "sutiau-mp3/5/5185(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "流血",
+              "en": "to bleed"
+            }
           },
           {
             "text": {
@@ -2256,7 +3046,11 @@
               "twl": "bue̍h-á"
             },
             "audio": "sutiau-mp3/13/13118(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "襪子",
+              "en": "socks"
+            }
           },
           {
             "text": {
@@ -2264,7 +3058,11 @@
               "twl": "ueh"
             },
             "audio": "sutiau-mp3/8/8164(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "喂",
+              "en": "hey"
+            }
           }
         ]
       },
@@ -2279,7 +3077,11 @@
               "twl": "hiauh-hiauh"
             },
             "audio": "sutiau-mp3/12/12610(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "en": "upturned",
+              "zh-tw": "翹翹的"
+            }
           },
           {
             "text": {
@@ -2287,7 +3089,11 @@
               "twl": "ngia̍uh-ngia̍uh-sô"
             },
             "audio": "sutiau-mp3/12/12612(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "像蟲一樣蠕動",
+              "en": "to move like a wriggling worm"
+            }
           }
         ]
       },
@@ -2302,7 +3108,11 @@
               "twl": "ji̍t-thâu tsin hannh"
             },
             "audio": "leku-mp3/10/10613-3-1",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "太陽很熱",
+              "en": "The sun is really hot."
+            }
           },
           {
             "text": {
@@ -2310,7 +3120,11 @@
               "twl": "sannh-sim"
             },
             "audio": "sutiau-mp3/9/9696(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "渴望得到",
+              "en": "to long to obtain"
+            }
           }
         ]
       },
@@ -2325,7 +3139,11 @@
               "twl": "hiannh sann"
             },
             "audio": "leku-mp3/4/4988-1-1",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "拿衣服",
+              "en": "to grab clothes by hands"
+            }
           },
           {
             "text": {
@@ -2333,7 +3151,11 @@
               "twl": "táng-hiannh"
             },
             "audio": "sutiau-mp3/12/12179(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "冒失莽撞",
+              "en": "rash and reckless"
+            }
           }
         ]
       }
@@ -2342,7 +3164,7 @@
       "en": "ending short stop sounds",
       "twh": "入聲韻尾 (-h)",
       "twl": "ji̍p-siann ūn-bué",
-      "zh-tw": "入聲韻尾"
+      "zh-tw": "入聲韻尾 (-h)"
     }
   },
   {
@@ -2359,7 +3181,11 @@
               "twl": "tap-àn"
             },
             "audio": "sutiau-mp3/8/8864(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "答案",
+              "en": "answer"
+            }
           },
           {
             "text": {
@@ -2367,7 +3193,11 @@
               "twl": "lah-sap"
             },
             "audio": "sutiau-mp3/3/3777(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "髒",
+              "en": "dirty"
+            }
           },
           {
             "text": {
@@ -2375,7 +3205,11 @@
               "twl": "tsa̍p"
             },
             "audio": "sutiau-mp3/0/54(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "十",
+              "en": "ten"
+            }
           }
         ]
       },
@@ -2390,7 +3224,11 @@
               "twl": "hip-siòng"
             },
             "audio": "sutiau-mp3/8/8913(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "照相",
+              "en": "to take photos"
+            }
           },
           {
             "text": {
@@ -2398,7 +3236,11 @@
               "twl": "liān-si̍p"
             },
             "audio": "sutiau-mp3/11/11293(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "練習",
+              "en": "practice"
+            }
           },
           {
             "text": {
@@ -2406,7 +3248,11 @@
               "twl": "khip-tsio̍h"
             },
             "audio": "sutiau-mp3/2/2979(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "磁鐵",
+              "en": "magnet"
+            }
           }
         ]
       },
@@ -2421,7 +3267,11 @@
               "twl": "kó-tsiap"
             },
             "audio": "sutiau-mp3/25/25116(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "果汁",
+              "en": "juice"
+            }
           },
           {
             "text": {
@@ -2429,7 +3279,11 @@
               "twl": "ôo-tia̍p"
             },
             "audio": "sutiau-mp3/11/11374(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "蝴蝶",
+              "en": "butterfly"
+            }
           },
           {
             "text": {
@@ -2437,7 +3291,11 @@
               "twl": "gia̍p-bū"
             },
             "audio": "sutiau-mp3/9/9603(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "業務",
+              "en": "business"
+            }
           }
         ]
       }
@@ -2446,7 +3304,7 @@
       "en": "ending short stop sounds",
       "twh": "入聲韻尾 (-p)",
       "twl": "ji̍p-siann ūn-bué",
-      "zh-tw": "入聲韻尾"
+      "zh-tw": "入聲韻尾 (-p)"
     }
   },
   {
@@ -2463,7 +3321,11 @@
               "twl": "at-tshiú-pà"
             },
             "audio": "sutiau-mp3/10/10165(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "比腕力",
+              "en": "arm wrestling"
+            }
           },
           {
             "text": {
@@ -2471,7 +3333,11 @@
               "twl": "pa̍t-lâng"
             },
             "audio": "sutiau-mp3/2/2969(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "別人",
+              "en": "others"
+            }
           },
           {
             "text": {
@@ -2479,7 +3345,11 @@
               "twl": "kuan-tsat"
             },
             "audio": "sutiau-mp3/12/12917(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "關節",
+              "en": "joint"
+            }
           }
         ]
       },
@@ -2494,7 +3364,11 @@
               "twl": "it-ti̍t"
             },
             "audio": "sutiau-mp3/0/19(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "一直",
+              "en": "always"
+            }
           },
           {
             "text": {
@@ -2502,7 +3376,11 @@
               "twl": "pit"
             },
             "audio": "sutiau-mp3/8/8816(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "筆",
+              "en": "pen"
+            }
           },
           {
             "text": {
@@ -2510,7 +3388,11 @@
               "twl": "si̍t-kóo"
             },
             "audio": "sutiau-mp3/12/12310(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "翅膀",
+              "en": "wings"
+            }
           }
         ]
       },
@@ -2525,7 +3407,11 @@
               "twl": "ut-táu"
             },
             "audio": "sutiau-mp3/11/11192(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "熨斗",
+              "en": "iron"
+            }
           },
           {
             "text": {
@@ -2533,7 +3419,11 @@
               "twl": "kut-thâu"
             },
             "audio": "sutiau-mp3/23/23932(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "骨頭",
+              "en": "bones"
+            }
           },
           {
             "text": {
@@ -2541,7 +3431,11 @@
               "twl": "lé-bu̍t"
             },
             "audio": "sutiau-mp3/12/12530(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "禮物",
+              "en": "gift"
+            }
           }
         ]
       },
@@ -2556,7 +3450,11 @@
               "twl": "ia̍t-tshiú"
             },
             "audio": "sutiau-mp3/11/11658(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "揮手",
+              "en": "to wave hands"
+            }
           },
           {
             "text": {
@@ -2564,7 +3462,11 @@
               "twl": "tsiat-bo̍k"
             },
             "audio": "sutiau-mp3/9/9821(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "節目",
+              "en": "program"
+            }
           },
           {
             "text": {
@@ -2572,7 +3474,11 @@
               "twl": "nāu-jia̍t"
             },
             "audio": "sutiau-mp3/11/11586(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "熱鬧",
+              "en": "lively"
+            }
           }
         ]
       },
@@ -2587,7 +3493,11 @@
               "twl": "ua̍t-thâu"
             },
             "audio": "sutiau-mp3/9/9097(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "回頭",
+              "en": "to turn back"
+            }
           },
           {
             "text": {
@@ -2595,7 +3505,11 @@
               "twl": "sió-suat"
             },
             "audio": "sutiau-mp3/0/502(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "小說",
+              "en": "novel"
+            }
           },
           {
             "text": {
@@ -2603,7 +3517,11 @@
               "twl": "huat-lu̍t"
             },
             "audio": "sutiau-mp3/4/4280(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "法律",
+              "en": "law"
+            }
           }
         ]
       }
@@ -2612,7 +3530,7 @@
       "en": "ending short stop sounds",
       "twh": "入聲韻尾 (-t)",
       "twl": "ji̍p-siann ūn-bué",
-      "zh-tw": "入聲韻尾"
+      "zh-tw": "入聲韻尾 (-t)"
     }
   },
   {
@@ -2629,7 +3547,11 @@
               "twl": "ak-tshiú"
             },
             "audio": "sutiau-mp3/8/8429(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "握手",
+              "en": "to shake hands"
+            }
           },
           {
             "text": {
@@ -2637,7 +3559,11 @@
               "twl": "ping-kak"
             },
             "audio": "sutiau-mp3/2/2173(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "冰塊",
+              "en": "ice cubes"
+            }
           },
           {
             "text": {
@@ -2645,7 +3571,11 @@
               "twl": "ba̍k-kiànn"
             },
             "audio": "sutiau-mp3/2/2024(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "眼鏡",
+              "en": "glasses"
+            }
           }
         ]
       },
@@ -2660,7 +3590,11 @@
               "twl": "huan-i̍k"
             },
             "audio": "sutiau-mp3/12/12586(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "翻譯",
+              "en": "translation"
+            }
           },
           {
             "text": {
@@ -2668,7 +3602,11 @@
               "twl": "a-tsik"
             },
             "audio": "sutiau-mp3/4/4550(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "叔叔",
+              "en": "uncle"
+            }
           },
           {
             "text": {
@@ -2676,7 +3614,11 @@
               "twl": "tik-sún"
             },
             "audio": "sutiau-mp3/2/2747(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "竹筍",
+              "en": "bamboo shoots"
+            }
           }
         ]
       },
@@ -2691,7 +3633,11 @@
               "twl": "phok-sū"
             },
             "audio": "sutiau-mp3/8/8181(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "en": "Ph.D.",
+              "zh-tw": "博士"
+            }
           },
           {
             "text": {
@@ -2699,7 +3645,11 @@
               "twl": "kho̍k-hî"
             },
             "audio": "sutiau-mp3/13/13407(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "鱷魚",
+              "en": "crocodile"
+            }
           },
           {
             "text": {
@@ -2707,7 +3657,11 @@
               "twl": "ok-to̍k"
             },
             "audio": "sutiau-mp3/8/8377(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "惡毒",
+              "en": "vicious"
+            }
           }
         ]
       },
@@ -2722,7 +3676,11 @@
               "twl": "siak--tó"
             },
             "audio": "sutiau-mp3/10/10514(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "摔倒",
+              "en": "to fall"
+            }
           },
           {
             "text": {
@@ -2730,7 +3688,11 @@
               "twl": "piak-khang"
             },
             "audio": "sutiau-mp3/9/9702(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "事情敗露",
+              "en": "the matter came to light"
+            }
           },
           {
             "text": {
@@ -2738,7 +3700,11 @@
               "twl": "kim-siak-siak"
             },
             "audio": "sutiau-mp3/14/14116(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "金光閃閃",
+              "en": "gleaming with golden light"
+            }
           }
         ]
       },
@@ -2753,7 +3719,11 @@
               "twl": "iok-huē"
             },
             "audio": "sutiau-mp3/5/5422(1)",
-            "seq": 1
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "約會",
+              "en": "date"
+            }
           },
           {
             "text": {
@@ -2761,7 +3731,11 @@
               "twl": "sio̍k-gí"
             },
             "audio": "sutiau-mp3/4/4748(1)",
-            "seq": 2
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "俗語",
+              "en": "idioms"
+            }
           },
           {
             "text": {
@@ -2769,7 +3743,11 @@
               "twl": "muâ-tshiok"
             },
             "audio": "sutiau-mp3/8/8123(1)",
-            "seq": 3
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "麻雀",
+              "en": "sparrow"
+            }
           }
         ]
       }
@@ -2778,7 +3756,7 @@
       "en": "ending short stop sounds",
       "twh": "入聲韻尾 (-k)",
       "twl": "ji̍p-siann ūn-bué",
-      "zh-tw": "入聲韻尾"
+      "zh-tw": "入聲韻尾 (-k)"
     }
   }
 ]
