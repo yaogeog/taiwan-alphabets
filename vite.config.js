@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // 2. 加入 plugins 陣列中
   ],
+  base: "/taiwan-alphabets/",
 });
