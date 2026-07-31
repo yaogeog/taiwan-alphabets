@@ -1,0 +1,2784 @@
+[
+  {
+    "seq": 1,
+    "sounds": [
+      {
+        "text": "p",
+        "audio": "phingim/p",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "飯",
+              "twl": "pn̄g"
+            },
+            "audio": "sutiau-mp3/9/9222(1)",
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "飯",
+              "en": "rice"
+            }
+          },
+          {
+            "text": {
+              "twh": "杯仔",
+              "twl": "pue-á"
+            },
+            "audio": "sutiau-mp3/4/4201(1)",
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "杯子",
+              "en": "cup"
+            }
+          },
+          {
+            "text": {
+              "twh": "拜拜",
+              "twl": "pài-pài"
+            },
+            "audio": "sutiau-mp3/4/4943(1)",
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "拜拜",
+              "en": "to pray in temples"
+            }
+          }
+        ]
+      },
+      {
+        "text": "ph",
+        "audio": "phingim/ph",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "批",
+              "twl": "phue"
+            },
+            "audio": "sutiau-mp3/3/3195(1)",
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "信",
+              "en": "letters"
+            }
+          },
+          {
+            "text": {
+              "twh": "泡麵",
+              "twl": "phàu-mī"
+            },
+            "audio": "sutiau-mp3/4/4369(1)",
+            "seq": 2,
+            "meaning": {
+              "zh-tw": "泡麵",
+              "en": "instant noodles"
+            }
+          },
+          {
+            "text": {
+              "twh": "豐沛",
+              "twl": "phong-phài"
+            },
+            "audio": "sutiau-mp3/12/12629(1)",
+            "seq": 3,
+            "meaning": {
+              "zh-tw": "豐沛",
+              "en": "abundant"
+            }
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "audio": "phingim/m",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "麵",
+              "twl": "mī"
+            },
+            "audio": "sutiau-mp3/13/13053(1)",
+            "seq": 1,
+            "meaning": {
+              "zh-tw": "麵",
+              "en": "noodles"
+            }
+          },
+          {
+            "text": {
+              "twh": "門",
+              "twl": "mn̂g"
+            },
+            "audio": "sutiau-mp3/4/4495(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "名字",
+              "twl": "miâ-jī"
+            },
+            "audio": "sutiau-mp3/2/2161(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "b",
+        "audio": "phingim/b",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "米",
+              "twl": "bí"
+            },
+            "audio": "sutiau-mp3/2/2587(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "肉",
+              "twl": "bah"
+            },
+            "audio": "sutiau-mp3/2/2595(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "目眉",
+              "twl": "ba̍k-bâi"
+            },
+            "audio": "sutiau-mp3/1/1926(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "audio": "phingim/t",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "茶",
+              "twl": "tê"
+            },
+            "audio": "sutiau-mp3/6/6537(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "豬",
+              "twl": "ti"
+            },
+            "audio": "sutiau-mp3/11/11384(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "地圖",
+              "twl": "tē-tôo"
+            },
+            "audio": "sutiau-mp3/23/23582(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "th",
+        "audio": "phingim/th",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "湯",
+              "twl": "thng"
+            },
+            "audio": "sutiau-mp3/8/8549(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "跳舞",
+              "twl": "thiàu-bú"
+            },
+            "audio": "sutiau-mp3/10/10230(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "太太",
+              "twl": "thài-thài"
+            },
+            "audio": "sutiau-mp3/0/849(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "audio": "phingim/n",
+        "seq": 7,
+        "examples": [
+          {
+            "text": {
+              "twh": "貓",
+              "twl": "niau"
+            },
+            "audio": "sutiau-mp3/11/11905(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "今年",
+              "twl": "kin-nî"
+            },
+            "audio": "sutiau-mp3/0/647(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "籃球",
+              "twl": "nâ-kiû"
+            },
+            "audio": "sutiau-mp3/12/12996(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "l",
+        "audio": "phingim/l",
+        "seq": 8,
+        "examples": [
+          {
+            "text": {
+              "twh": "鹿",
+              "twl": "lo̍k"
+            },
+            "audio": "sutiau-mp3/8/8086(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "老人",
+              "twl": "lāu-lâng"
+            },
+            "audio": "sutiau-mp3/2/2611(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "榴槤",
+              "twl": "liû-liân"
+            },
+            "audio": "sutiau-mp3/10/10598(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "k",
+        "audio": "phingim/k",
+        "seq": 9,
+        "examples": [
+          {
+            "text": {
+              "twh": "狗",
+              "twl": "káu"
+            },
+            "audio": "sutiau-mp3/4/4329(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "國家",
+              "twl": "kok-ka"
+            },
+            "audio": "sutiau-mp3/22/22125(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "雞卵糕",
+              "twl": "ke-nn̄g-ko"
+            },
+            "audio": "sutiau-mp3/12/12682(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "kh",
+        "audio": "phingim/kh",
+        "seq": 10,
+        "examples": [
+          {
+            "text": {
+              "twh": "跤",
+              "twl": "kha"
+            },
+            "audio": "sutiau-mp3/10/10059(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "褲",
+              "twl": "khòo"
+            },
+            "audio": "sutiau-mp3/11/11886(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "工課",
+              "twl": "khang-khuè"
+            },
+            "audio": "sutiau-mp3/0/519(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "g",
+        "audio": "phingim/g",
+        "seq": 11,
+        "examples": [
+          {
+            "text": {
+              "twh": "牛",
+              "twl": "gû"
+            },
+            "audio": "sutiau-mp3/1/1218(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "月娘",
+              "twl": "gue̍h-niû"
+            },
+            "audio": "leku-mp3/0/803-1-1",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "語言",
+              "twl": "gí-giân"
+            },
+            "audio": "sutiau-mp3/10/10833(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "audio": "phingim/ng",
+        "seq": 12,
+        "examples": [
+          {
+            "text": {
+              "twh": "夾仔",
+              "twl": "ngeh-á"
+            },
+            "audio": "sutiau-mp3/3/3027(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "五官",
+              "twl": "ngóo-kuan"
+            },
+            "audio": "sutiau-mp3/26/26010(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "迎神",
+              "twl": "ngiâ-sîn"
+            },
+            "audio": "sutiau-mp3/4/4589(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "h",
+        "audio": "phingim/h",
+        "seq": 13,
+        "examples": [
+          {
+            "text": {
+              "twh": "虎",
+              "twl": "hóo"
+            },
+            "audio": "sutiau-mp3/4/4482(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "風",
+              "twl": "hong"
+            },
+            "audio": "sutiau-mp3/5/5567(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "海岸",
+              "twl": "hái-huānn"
+            },
+            "audio": "sutiau-mp3/6/6175(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ts",
+        "audio": "phingim/ts",
+        "seq": 14,
+        "examples": [
+          {
+            "text": {
+              "twh": "錢",
+              "twl": "tsînn"
+            },
+            "audio": "sutiau-mp3/11/11988(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "紙",
+              "twl": "tsuá"
+            },
+            "audio": "sutiau-mp3/6/6477(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "住址",
+              "twl": "tsū-tsí"
+            },
+            "audio": "sutiau-mp3/2/2896(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "tsh",
+        "audio": "phingim/tsh",
+        "seq": 15,
+        "examples": [
+          {
+            "text": {
+              "twh": "車",
+              "twl": "tshia"
+            },
+            "audio": "sutiau-mp3/3/3394(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "樹仔",
+              "twl": "tshiū-á"
+            },
+            "audio": "sutiau-mp3/11/11706(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "青菜",
+              "twl": "tshenn-tshài"
+            },
+            "audio": "sutiau-mp3/4/4617(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "audio": "phingim/s",
+        "seq": 16,
+        "examples": [
+          {
+            "text": {
+              "twh": "獅",
+              "twl": "sai"
+            },
+            "audio": "sutiau-mp3/9/9721(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "鎖匙",
+              "twl": "só-sî"
+            },
+            "audio": "sutiau-mp3/12/12701(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "碩士",
+              "twl": "si̍k-sū"
+            },
+            "audio": "sutiau-mp3/10/10663(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "j",
+        "audio": "phingim/j",
+        "seq": 17,
+        "examples": [
+          {
+            "text": {
+              "twh": "字",
+              "twl": "jī"
+            },
+            "audio": "sutiau-mp3/2/2276(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "日頭",
+              "twl": "ji̍t-thâu"
+            },
+            "audio": "sutiau-mp3/1/1168(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "熱情",
+              "twl": "jia̍t-tsîng"
+            },
+            "audio": "sutiau-mp3/22/22893(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "consonants",
+      "twh": "聲母",
+      "twl": "siann-bó",
+      "zh-tw": "聲母"
+    }
+  },
+  {
+    "seq": 2,
+    "sounds": [
+      {
+        "text": "a",
+        "audio": "phingim/a",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "阿媽",
+              "twl": "a-má"
+            },
+            "audio": "sutiau-mp3/4/4621(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "豹",
+              "twl": "pà"
+            },
+            "audio": "sutiau-mp3/6/6669(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "打馬膠",
+              "twl": "tá-má-ka"
+            },
+            "audio": "sutiau-mp3/1/1754(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "audio": "phingim/i",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "醫師",
+              "twl": "i-su"
+            },
+            "audio": "sutiau-mp3/22/22183(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "椅仔",
+              "twl": "í-á"
+            },
+            "audio": "sutiau-mp3/8/8492(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "美麗",
+              "twl": "bí-lē"
+            },
+            "audio": "sutiau-mp3/5/5445(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "audio": "phingim/u",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "汙染",
+              "twl": "u-jiám"
+            },
+            "audio": "sutiau-mp3/23/23591(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "跤頭趺",
+              "twl": "kha-thâu-u"
+            },
+            "audio": "sutiau-mp3/10/10132(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "公寓",
+              "twl": "kong-gū"
+            },
+            "audio": "sutiau-mp3/0/723(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "audio": "phingim/e",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "鞋仔",
+              "twl": "ê-á"
+            },
+            "audio": "",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "雞母",
+              "twl": "ke-bó"
+            },
+            "audio": "sutiau-mp3/12/12670(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "西洋",
+              "twl": "Se-iûnn"
+            },
+            "audio": "sutiau-mp3/2/2842(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "audio": "phingim/o",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "蚵仔",
+              "twl": "ô-á"
+            },
+            "audio": "sutiau-mp3/7/7820(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "呵咾",
+              "twl": "o-ló"
+            },
+            "audio": "sutiau-mp3/3/3718(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "鉸刀",
+              "twl": "ka-to"
+            },
+            "audio": "sutiau-mp3/10/10866(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "oo",
+        "audio": "phingim/oo",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "芋仔",
+              "twl": "ōo-á"
+            },
+            "audio": "sutiau-mp3/3/3408(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "烏趖趖",
+              "twl": "oo-sô-sô"
+            },
+            "audio": "sutiau-mp3/6/6307(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "香菇",
+              "twl": "hiunn-koo"
+            },
+            "audio": "sutiau-mp3/5/5640(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "single vowels",
+      "twh": "單韻母",
+      "twl": "tan-ūn-bó",
+      "zh-tw": "單韻母"
+    },
+    "updatedTime": "2026-07-24T13:55:53.110121"
+  },
+  {
+    "id": 16,
+    "seq": 3,
+    "sounds": [
+      {
+        "text": "ai",
+        "audio": "phingim/ai",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "愛人",
+              "twl": "ài-jîn"
+            },
+            "audio": "sutiau-mp3/24/24329(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "梨仔",
+              "twl": "lâi-á"
+            },
+            "audio": "sutiau-mp3/7/7478(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "司奶",
+              "twl": "sai-nai"
+            },
+            "audio": "sutiau-mp3/1/1456(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "au",
+        "audio": "phingim/au",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "甌仔",
+              "twl": "au-á"
+            },
+            "audio": "sutiau-mp3/11/11784(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "樓梯",
+              "twl": "lâu-thui"
+            },
+            "audio": "sutiau-mp3/11/11172(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "紅包",
+              "twl": "âng-pau"
+            },
+            "audio": "sutiau-mp3/5/5387(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ia",
+        "audio": "phingim/ia",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "夜市",
+              "twl": "iā-tshī"
+            },
+            "audio": "sutiau-mp3/3/3773(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "狗蟻",
+              "twl": "káu-hiā"
+            },
+            "audio": "sutiau-mp3/4/4367(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "騎車",
+              "twl": "khiâ-tshia"
+            },
+            "audio": "sutiau-mp3/25/25397(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iu",
+        "audio": "phingim/iu",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "油",
+              "twl": "iû"
+            },
+            "audio": "sutiau-mp3/4/4254(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "秋天",
+              "twl": "tshiu-thinn"
+            },
+            "audio": "sutiau-mp3/23/23907(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "柳丁",
+              "twl": "liú-ting"
+            },
+            "audio": "sutiau-mp3/5/5078(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "io",
+        "audio": "phingim/io",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "腰",
+              "twl": "io"
+            },
+            "audio": "sutiau-mp3/9/9857(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "弓蕉",
+              "twl": "king-tsio"
+            },
+            "audio": "sutiau-mp3/0/529(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "廟口",
+              "twl": "biō-kháu"
+            },
+            "audio": "sutiau-mp3/19/19448(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ua",
+        "audio": "phingim/ua",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "蛇",
+              "twl": "tsuâ"
+            },
+            "audio": "sutiau-mp3/7/7818(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "我",
+              "twl": "guá"
+            },
+            "audio": "sutiau-mp3/3/3139(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "鯊魚",
+              "twl": "sua-hî"
+            },
+            "audio": "sutiau-mp3/12/12764(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ui",
+        "audio": "phingim/ui",
+        "seq": 7,
+        "examples": [
+          {
+            "text": {
+              "twh": "胃",
+              "twl": "uī"
+            },
+            "audio": "sutiau-mp3/5/5372(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "燒水",
+              "twl": "sio-tsuí"
+            },
+            "audio": "sutiau-mp3/11/11780(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "鬼",
+              "twl": "kuí"
+            },
+            "audio": "sutiau-mp3/6/6803(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ue",
+        "audio": "phingim/ue",
+        "seq": 8,
+        "examples": [
+          {
+            "text": {
+              "twh": "花",
+              "twl": "hue"
+            },
+            "audio": "sutiau-mp3/4/4426(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "畫圖",
+              "twl": "uē-tôo"
+            },
+            "audio": "sutiau-mp3/26/26493(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "果子",
+              "twl": "kué-tsí"
+            },
+            "audio": "sutiau-mp3/4/4196(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iau",
+        "audio": "phingim/iau",
+        "seq": 9,
+        "examples": [
+          {
+            "text": {
+              "twh": "腹肚枵",
+              "twl": "pak-tóo-iau"
+            },
+            "audio": "sutiau-mp3/9/9909(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "少年",
+              "twl": "siàu-liân"
+            },
+            "audio": "sutiau-mp3/0/896(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "妖嬌",
+              "twl": "iau-kiau"
+            },
+            "audio": "sutiau-mp3/3/3120(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uai",
+        "audio": "phingim/uai",
+        "seq": 10,
+        "examples": [
+          {
+            "text": {
+              "twh": "歪",
+              "twl": "uai"
+            },
+            "audio": "sutiau-mp3/5/5119(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "枴仔",
+              "twl": "kuái-á"
+            },
+            "audio": "sutiau-mp3/5/5082(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "快車",
+              "twl": "khuài-tshia"
+            },
+            "audio": "sutiau-mp3/3/3165(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "compound vowels",
+      "twh": "複韻母",
+      "twl": "ho̍k-ūn-bó",
+      "zh-tw": "複韻母"
+    },
+    "updatedTime": "2026-07-25T00:56:31.997383"
+  },
+  {
+    "id": 25,
+    "seq": 4,
+    "sounds": [
+      {
+        "text": "m",
+        "audio": "phingim/m-2",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "阿姆",
+              "twl": "a-ḿ"
+            },
+            "audio": "sutiau-mp3/4/4554(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "草莓",
+              "twl": "tsháu-m̂"
+            },
+            "audio": "sutiau-mp3/24/24543(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "毋著",
+              "twl": "m̄-tio̍h"
+            },
+            "audio": "sutiau-mp3/1/1089(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "audio": "phingim/ng-2",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "黃色",
+              "twl": "n̂g-sik"
+            },
+            "audio": "sutiau-mp3/9/9236(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "眠床",
+              "twl": "bîn-tshn̂g"
+            },
+            "audio": "sutiau-mp3/6/6389(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "卵仁",
+              "twl": "nn̄g-jîn"
+            },
+            "audio": "sutiau-mp3/2/2973(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "nasal vowels",
+      "twh": "鼻音韻母",
+      "twl": "phīnn-im ūn-bó",
+      "zh-tw": "鼻音韻母"
+    }
+  },
+  {
+    "seq": 5,
+    "sounds": [
+      {
+        "text": "ann",
+        "audio": "phingim/ann",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "衫",
+              "twl": "sann"
+            },
+            "audio": "sutiau-mp3/5/5490(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "餡餅",
+              "twl": "ānn-piánn"
+            },
+            "audio": "sutiau-mp3/12/12078(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "毋敢",
+              "twl": "m̄ kánn"
+            },
+            "audio": "sutiau-mp3/1/1072(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "inn",
+        "audio": "phingim/inn",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "耳仔",
+              "twl": "hīnn-á"
+            },
+            "audio": "sutiau-mp3/2/2633(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "粉圓",
+              "twl": "hún-înn"
+            },
+            "audio": "sutiau-mp3/6/6456(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "春天",
+              "twl": "tshun-thinn"
+            },
+            "audio": "sutiau-mp3/5/5000(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "enn",
+        "audio": "phingim/enn",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "嬰仔",
+              "twl": "enn-á"
+            },
+            "audio": "sutiau-mp3/12/12150(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "青色",
+              "twl": "tshenn-sik"
+            },
+            "audio": "sutiau-mp3/4/4535(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "破病",
+              "twl": "phuà-pēnn"
+            },
+            "audio": "sutiau-mp3/6/6401(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "onn",
+        "audio": "phingim/onn",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "鼾",
+              "twl": "kônn"
+            },
+            "audio": "sutiau-mp3/12/12452(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "好玄",
+              "twl": "hònn-hiân"
+            },
+            "audio": "sutiau-mp3/14/14002(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "唔唔睏",
+              "twl": "onn-onn-khùn"
+            },
+            "audio": "sutiau-mp3/5/5833(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ainn",
+        "audio": "phingim/ainn",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "揹",
+              "twl": "phāinn"
+            },
+            "audio": "sutiau-mp3/8/8412(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "二指",
+              "twl": "jī-tsáinn"
+            },
+            "audio": "sutiau-mp3/0/115(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "喈",
+              "twl": "kainn"
+            },
+            "audio": "sutiau-mp3/8/8167(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iann",
+        "audio": "phingim/iann",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "鏡",
+              "twl": "kiànn"
+            },
+            "audio": "sutiau-mp3/12/12897(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "電影",
+              "twl": "tiān-iánn"
+            },
+            "audio": "sutiau-mp3/10/10336(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "客廳",
+              "twl": "kheh-thiann"
+            },
+            "audio": "sutiau-mp3/4/4895(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iunn",
+        "audio": "phingim/iunn",
+        "seq": 7,
+        "examples": [
+          {
+            "text": {
+              "twh": "羊",
+              "twl": "iûnn"
+            },
+            "audio": "sutiau-mp3/2/2588(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "唱歌",
+              "twl": "tshiùnn-kua"
+            },
+            "audio": "sutiau-mp3/24/24560(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "冰箱",
+              "twl": "ping-siunn"
+            },
+            "audio": "sutiau-mp3/2/2247(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uann",
+        "audio": "phingim/uann",
+        "seq": 8,
+        "examples": [
+          {
+            "text": {
+              "twh": "碗",
+              "twl": "uánn"
+            },
+            "audio": "sutiau-mp3/9/9775(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "山頂",
+              "twl": "suann-tíng"
+            },
+            "audio": "sutiau-mp3/0/438(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "寒人",
+              "twl": "kuânn--lâng"
+            },
+            "audio": "sutiau-mp3/8/8294(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uainn",
+        "audio": "phingim/uainn",
+        "seq": 9,
+        "examples": [
+          {
+            "text": {
+              "twh": "檨仔",
+              "twl": "suāinn-á"
+            },
+            "audio": "sutiau-mp3/12/12189(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "芋莖",
+              "twl": "ōo-huâinn"
+            },
+            "audio": "sutiau-mp3/3/3462(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "銃桿",
+              "twl": "tshìng-kuáinn"
+            },
+            "audio": "leku-mp3/7/7442-1-1",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "nasal vowels",
+      "twh": "鼻音韻母 (-nn)",
+      "twl": "phīnn-im ūn-bó",
+      "zh-tw": "鼻音韻母"
+    }
+  },
+  {
+    "seq": 6,
+    "sounds": [
+      {
+        "text": "am",
+        "audio": "phingim/am",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "網站",
+              "twl": "bāng-tsām"
+            },
+            "audio": "sutiau-mp3/22/22178(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "醃瓜",
+              "twl": "am-kue"
+            },
+            "audio": "sutiau-mp3/11/11490(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "南方",
+              "twl": "lâm-hong"
+            },
+            "audio": "sutiau-mp3/23/23473(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "im",
+        "audio": "phingim/im",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "熊",
+              "twl": "hîm"
+            },
+            "audio": "sutiau-mp3/10/10645(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "音樂",
+              "twl": "im-ga̍k"
+            },
+            "audio": "sutiau-mp3/22/22144(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "愛心",
+              "twl": "ài-sim"
+            },
+            "audio": "sutiau-mp3/24/24891(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "om",
+        "audio": "phingim/om",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "茂",
+              "twl": "ōm"
+            },
+            "audio": "sutiau-mp3/5/5454(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "貴參參",
+              "twl": "kuì-som-som"
+            },
+            "audio": "sutiau-mp3/9/9080(1)",
+            "seq": 2
+          }
+        ]
+      },
+      {
+        "text": "iam",
+        "audio": "phingim/iam",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "鹽",
+              "twl": "iâm"
+            },
+            "audio": "sutiau-mp3/13/13354(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "薟椒仔",
+              "twl": "hiam-tsio-á"
+            },
+            "audio": "sutiau-mp3/12/12358(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "地點",
+              "twl": "tē-tiám"
+            },
+            "audio": "sutiau-mp3/2/2416(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending nasal sounds",
+      "twh": "鼻音韻尾 (-m)",
+      "twl": "phīnn-im ūn-bué",
+      "zh-tw": "鼻音韻尾"
+    }
+  },
+  {
+    "seq": 7,
+    "sounds": [
+      {
+        "text": "an",
+        "audio": "phingim/an",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "安全",
+              "twl": "an-tsuân"
+            },
+            "audio": "sutiau-mp3/22/22169(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "簡單",
+              "twl": "kán-tan"
+            },
+            "audio": "sutiau-mp3/12/12575(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "瘦",
+              "twl": "sán"
+            },
+            "audio": "sutiau-mp3/11/11208(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "in",
+        "audio": "phingim/in",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "新聞",
+              "twl": "sin-bûn"
+            },
+            "audio": "sutiau-mp3/9/9547(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "銀行",
+              "twl": "gîn-hâng"
+            },
+            "audio": "sutiau-mp3/10/10876(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "認真",
+              "twl": "jīn-tsin"
+            },
+            "audio": "sutiau-mp3/10/10838(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "un",
+        "audio": "phingim/un",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "溫泉",
+              "twl": "un-tsuânn"
+            },
+            "audio": "sutiau-mp3/9/9654(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "薰",
+              "twl": "hun"
+            },
+            "audio": "sutiau-mp3/12/12553(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "頷頸",
+              "twl": "ām-kún"
+            },
+            "audio": "sutiau-mp3/12/12082(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ian",
+        "audio": "phingim/ian",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "煙火",
+              "twl": "ian-hué"
+            },
+            "audio": "sutiau-mp3/9/9697(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "字典",
+              "twl": "jī-tián"
+            },
+            "audio": "sutiau-mp3/2/2335(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "健康",
+              "twl": "kiān-khong"
+            },
+            "audio": "sutiau-mp3/6/6975(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uan",
+        "audio": "phingim/uan",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "蒜頭",
+              "twl": "suàn-thâu"
+            },
+            "audio": "sutiau-mp3/10/10798(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "臺灣",
+              "twl": "Tâi-uân"
+            },
+            "audio": "",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "冤家",
+              "twl": "uan-ke"
+            },
+            "audio": "sutiau-mp3/5/5747(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending nasal sounds",
+      "twh": "鼻音韻尾 (-n) ",
+      "twl": "phīnn-im ūn-bué",
+      "zh-tw": "鼻音韻尾"
+    }
+  },
+  {
+    "seq": 8,
+    "sounds": [
+      {
+        "text": "ang",
+        "audio": "phingim/ang",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "紅色",
+              "twl": "âng-sik"
+            },
+            "audio": "sutiau-mp3/5/5393(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "蠓仔",
+              "twl": "báng-á"
+            },
+            "audio": "sutiau-mp3/13/13012(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "蔥頭",
+              "twl": "tshang-thâu"
+            },
+            "audio": "sutiau-mp3/11/11345(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ing",
+        "audio": "phingim/ing",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "櫻花",
+              "twl": "ing-hue"
+            },
+            "audio": "sutiau-mp3/13/13098(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "心情",
+              "twl": "sim-tsîng"
+            },
+            "audio": "sutiau-mp3/1/1047(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "慶祝",
+              "twl": "khìng-tsiok"
+            },
+            "audio": "sutiau-mp3/11/11073(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ong",
+        "audio": "phingim/ong",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "王梨",
+              "twl": "ông-lâi"
+            },
+            "audio": "sutiau-mp3/1/1260(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "磅空",
+              "twl": "pōng-khang"
+            },
+            "audio": "sutiau-mp3/11/11259(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "爽",
+              "twl": "sóng"
+            },
+            "audio": "sutiau-mp3/7/7568(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iang",
+        "audio": "phingim/iang",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "涼水",
+              "twl": "liâng-tsuí"
+            },
+            "audio": "sutiau-mp3/7/7477(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "雙生仔",
+              "twl": "siang-senn-á"
+            },
+            "audio": "sutiau-mp3/12/12675(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "香油",
+              "twl": "hiang-iû"
+            },
+            "audio": "sutiau-mp3/5/5600(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iong",
+        "audio": "phingim/iong",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "高中",
+              "twl": "ko-tiong"
+            },
+            "audio": "sutiau-mp3/6/6808(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "獎金",
+              "twl": "tsióng-kim"
+            },
+            "audio": "sutiau-mp3/11/11223(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "受傷",
+              "twl": "siū-siong"
+            },
+            "audio": "sutiau-mp3/22/22725(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uang",
+        "audio": "phingim/uang",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "規嚾規黨",
+              "twl": "kui-uang-kui-tóng"
+            },
+            "audio": "sutiau-mp3/14/14295(1)",
+            "seq": 1
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending nasal sounds",
+      "twh": "鼻音韻尾 (-ng)",
+      "twl": "phīnn-im ūn-bué",
+      "zh-tw": "鼻音韻尾"
+    }
+  },
+  {
+    "seq": 9,
+    "sounds": [
+      {
+        "text": "ah",
+        "audio": "phingim/ah",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "鴨",
+              "twl": "ah"
+            },
+            "audio": "sutiau-mp3/12/12089(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "蠟燭",
+              "twl": "la̍h-tsik"
+            },
+            "audio": "sutiau-mp3/13/13128(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "卡",
+              "twl": "khah"
+            },
+            "audio": "sutiau-mp3/1/1390(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ih",
+        "audio": "phingim/ih",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "鐵馬",
+              "twl": "thih-bé"
+            },
+            "audio": "sutiau-mp3/13/13148(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "物件",
+              "twl": "mi̍h-kiānn"
+            },
+            "audio": "sutiau-mp3/4/4343(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "喙舌",
+              "twl": "tshuì-tsi̍h"
+            },
+            "audio": "sutiau-mp3/8/8192(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "eh",
+        "audio": "phingim/eh",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "拍呃",
+              "twl": "phah-eh"
+            },
+            "audio": "sutiau-mp3/4/4015(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "白色",
+              "twl": "pe̍h-sik"
+            },
+            "audio": "sutiau-mp3/1/1893(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "尪仔冊",
+              "twl": "ang-á-tsheh"
+            },
+            "audio": "sutiau-mp3/3/3073(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uh",
+        "audio": "phingim/uh",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "欶管",
+              "twl": "suh-kóng"
+            },
+            "audio": "sutiau-mp3/7/7502(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "盹龜",
+              "twl": "tuh-ku"
+            },
+            "audio": "sutiau-mp3/5/5296(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "黜臭",
+              "twl": "thuh-tshàu"
+            },
+            "audio": "sutiau-mp3/12/12462(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "oh",
+        "audio": "phingim/oh",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "同學",
+              "twl": "tông-o̍h"
+            },
+            "audio": "",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "桌",
+              "twl": "toh"
+            },
+            "audio": "sutiau-mp3/6/6092(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "作穡",
+              "twl": "tsoh-sit"
+            },
+            "audio": "sutiau-mp3/2/2940(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ooh",
+        "audio": "phingim/ooh",
+        "seq": 6,
+        "examples": [
+          {
+            "text": {
+              "twh": "喔",
+              "twl": "ooh"
+            },
+            "audio": "sutiau-mp3/8/8172(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "面膜",
+              "twl": "bīn-mo̍oh"
+            },
+            "audio": "sutiau-mp3/23/23479(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "𢯾物件",
+              "twl": "mooh mi̍h-kiānn"
+            },
+            "audio": "leku-mp3/13/13467-1-2",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "auh",
+        "audio": "phingim/auh",
+        "seq": 7,
+        "examples": [
+          {
+            "text": {
+              "twh": "潤餅𩛩",
+              "twl": "jūn-piánn-kauh"
+            },
+            "audio": "sutiau-mp3/11/11201(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "沓沓仔",
+              "twl": "ta̍uh-ta̍uh-á"
+            },
+            "audio": "sutiau-mp3/4/4275(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "糜糜卯卯",
+              "twl": "mi-mi-mauh-mauh"
+            },
+            "audio": "sutiau-mp3/12/12283(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iah",
+        "audio": "phingim/iah",
+        "seq": 8,
+        "examples": [
+          {
+            "text": {
+              "twh": "後壁",
+              "twl": "āu-piah"
+            },
+            "audio": "sutiau-mp3/4/4968(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "食飯",
+              "twl": "tsia̍h-pn̄g"
+            },
+            "audio": "leku-mp3/9/9222-1-2",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "好額",
+              "twl": "hó-gia̍h"
+            },
+            "audio": "sutiau-mp3/2/2418(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ioh",
+        "audio": "phingim/ioh",
+        "seq": 9,
+        "examples": [
+          {
+            "text": {
+              "twh": "藥仔",
+              "twl": "io̍h-á"
+            },
+            "audio": "sutiau-mp3/12/12843(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "石頭",
+              "twl": "tsio̍h-thâu"
+            },
+            "audio": "sutiau-mp3/22/22912(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "樹葉",
+              "twl": "tshiū-hio̍h"
+            },
+            "audio": "sutiau-mp3/25/25915(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uah",
+        "audio": "phingim/uah",
+        "seq": 10,
+        "examples": [
+          {
+            "text": {
+              "twh": "屜仔",
+              "twl": "thuah-á"
+            },
+            "audio": "sutiau-mp3/7/7188(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "歇熱",
+              "twl": "hioh-jua̍h"
+            },
+            "audio": "sutiau-mp3/9/9675(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "跋倒",
+              "twl": "pua̍h-tó"
+            },
+            "audio": "sutiau-mp3/9/9121(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ueh",
+        "audio": "phingim/ueh",
+        "seq": 11,
+        "examples": [
+          {
+            "text": {
+              "twh": "流血",
+              "twl": "lâu-hueh"
+            },
+            "audio": "sutiau-mp3/5/5185(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "襪仔",
+              "twl": "bue̍h-á"
+            },
+            "audio": "sutiau-mp3/13/13118(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "喂",
+              "twl": "ueh"
+            },
+            "audio": "sutiau-mp3/8/8164(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iauh",
+        "audio": "phingim/iauh",
+        "seq": 12,
+        "examples": [
+          {
+            "text": {
+              "twh": "藃藃",
+              "twl": "hiauh-hiauh"
+            },
+            "audio": "sutiau-mp3/12/12610(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "蟯蟯趖",
+              "twl": "ngia̍uh-ngia̍uh-sô"
+            },
+            "audio": "sutiau-mp3/12/12612(1)",
+            "seq": 2
+          }
+        ]
+      },
+      {
+        "text": "annh",
+        "audio": "phingim/annh",
+        "seq": 13,
+        "examples": [
+          {
+            "text": {
+              "twh": "日頭真熁",
+              "twl": "ji̍t-thâu tsin hannh"
+            },
+            "audio": "leku-mp3/10/10613-3-1",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "煞心",
+              "twl": "sannh-sim"
+            },
+            "audio": "sutiau-mp3/9/9696(1)",
+            "seq": 2
+          }
+        ]
+      },
+      {
+        "text": "iannh",
+        "audio": "phingim/iannh",
+        "seq": 14,
+        "examples": [
+          {
+            "text": {
+              "twh": "挔衫",
+              "twl": "hiannh sann"
+            },
+            "audio": "leku-mp3/4/4988-1-1",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "懂嚇",
+              "twl": "táng-hiannh"
+            },
+            "audio": "sutiau-mp3/12/12179(1)",
+            "seq": 2
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending short stop sounds",
+      "twh": "入聲韻尾 (-h)",
+      "twl": "ji̍p-siann ūn-bué",
+      "zh-tw": "入聲韻尾"
+    }
+  },
+  {
+    "seq": 10,
+    "sounds": [
+      {
+        "text": "ap",
+        "audio": "phingim/ap",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "答案",
+              "twl": "tap-àn"
+            },
+            "audio": "sutiau-mp3/8/8864(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "垃圾",
+              "twl": "lah-sap"
+            },
+            "audio": "sutiau-mp3/3/3777(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "十",
+              "twl": "tsa̍p"
+            },
+            "audio": "sutiau-mp3/0/54(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ip",
+        "audio": "phingim/ip",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "翕相",
+              "twl": "hip-siòng"
+            },
+            "audio": "sutiau-mp3/8/8913(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "練習",
+              "twl": "liān-si̍p"
+            },
+            "audio": "sutiau-mp3/11/11293(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "吸石",
+              "twl": "khip-tsio̍h"
+            },
+            "audio": "sutiau-mp3/2/2979(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iap",
+        "audio": "phingim/iap",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "果汁",
+              "twl": "kó-tsiap"
+            },
+            "audio": "sutiau-mp3/25/25116(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "蝴蝶",
+              "twl": "ôo-tia̍p"
+            },
+            "audio": "sutiau-mp3/11/11374(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "業務",
+              "twl": "gia̍p-bū"
+            },
+            "audio": "sutiau-mp3/9/9603(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending short stop sounds",
+      "twh": "入聲韻尾 (-p)",
+      "twl": "ji̍p-siann ūn-bué",
+      "zh-tw": "入聲韻尾"
+    }
+  },
+  {
+    "seq": 11,
+    "sounds": [
+      {
+        "text": "at",
+        "audio": "phingim/at",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "遏手把",
+              "twl": "at-tshiú-pà"
+            },
+            "audio": "sutiau-mp3/10/10165(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "別人",
+              "twl": "pa̍t-lâng"
+            },
+            "audio": "sutiau-mp3/2/2969(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "關節",
+              "twl": "kuan-tsat"
+            },
+            "audio": "sutiau-mp3/12/12917(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "it",
+        "audio": "phingim/it",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "一直",
+              "twl": "it-ti̍t"
+            },
+            "audio": "sutiau-mp3/0/19(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "筆",
+              "twl": "pit"
+            },
+            "audio": "sutiau-mp3/8/8816(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "翼股",
+              "twl": "si̍t-kóo"
+            },
+            "audio": "sutiau-mp3/12/12310(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ut",
+        "audio": "phingim/ut",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "熨斗",
+              "twl": "ut-táu"
+            },
+            "audio": "sutiau-mp3/11/11192(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "骨頭",
+              "twl": "kut-thâu"
+            },
+            "audio": "sutiau-mp3/23/23932(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "禮物",
+              "twl": "lé-bu̍t"
+            },
+            "audio": "sutiau-mp3/12/12530(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iat",
+        "audio": "phingim/iat",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "擛手",
+              "twl": "ia̍t-tshiú"
+            },
+            "audio": "sutiau-mp3/11/11658(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "節目",
+              "twl": "tsiat-bo̍k"
+            },
+            "audio": "sutiau-mp3/9/9821(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "鬧熱",
+              "twl": "nāu-jia̍t"
+            },
+            "audio": "sutiau-mp3/11/11586(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "uat",
+        "audio": "phingim/uat",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "越頭",
+              "twl": "ua̍t-thâu"
+            },
+            "audio": "sutiau-mp3/9/9097(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "小說",
+              "twl": "sió-suat"
+            },
+            "audio": "sutiau-mp3/0/502(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "法律",
+              "twl": "huat-lu̍t"
+            },
+            "audio": "sutiau-mp3/4/4280(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending short stop sounds",
+      "twh": "入聲韻尾 (-t)",
+      "twl": "ji̍p-siann ūn-bué",
+      "zh-tw": "入聲韻尾"
+    }
+  },
+  {
+    "seq": 12,
+    "sounds": [
+      {
+        "text": "ak",
+        "audio": "phingim/ak",
+        "seq": 1,
+        "examples": [
+          {
+            "text": {
+              "twh": "握手",
+              "twl": "ak-tshiú"
+            },
+            "audio": "sutiau-mp3/8/8429(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "冰角",
+              "twl": "ping-kak"
+            },
+            "audio": "sutiau-mp3/2/2173(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "目鏡",
+              "twl": "ba̍k-kiànn"
+            },
+            "audio": "sutiau-mp3/2/2024(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ik",
+        "audio": "phingim/ik",
+        "seq": 2,
+        "examples": [
+          {
+            "text": {
+              "twh": "翻譯",
+              "twl": "huan-i̍k"
+            },
+            "audio": "sutiau-mp3/12/12586(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "阿叔",
+              "twl": "a-tsik"
+            },
+            "audio": "sutiau-mp3/4/4550(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "竹筍",
+              "twl": "tik-sún"
+            },
+            "audio": "sutiau-mp3/2/2747(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "ok",
+        "audio": "phingim/ok",
+        "seq": 3,
+        "examples": [
+          {
+            "text": {
+              "twh": "博士",
+              "twl": "phok-sū"
+            },
+            "audio": "sutiau-mp3/8/8181(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "鱷魚",
+              "twl": "kho̍k-hî"
+            },
+            "audio": "sutiau-mp3/13/13407(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "惡毒",
+              "twl": "ok-to̍k"
+            },
+            "audio": "sutiau-mp3/8/8377(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iak",
+        "audio": "phingim/iak",
+        "seq": 4,
+        "examples": [
+          {
+            "text": {
+              "twh": "摔倒",
+              "twl": "siak--tó"
+            },
+            "audio": "sutiau-mp3/10/10514(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "煏空",
+              "twl": "piak-khang"
+            },
+            "audio": "sutiau-mp3/9/9702(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "金鑠鑠",
+              "twl": "kim-siak-siak"
+            },
+            "audio": "sutiau-mp3/14/14116(1)",
+            "seq": 3
+          }
+        ]
+      },
+      {
+        "text": "iok",
+        "audio": "phingim/iok",
+        "seq": 5,
+        "examples": [
+          {
+            "text": {
+              "twh": "約會",
+              "twl": "iok-huē"
+            },
+            "audio": "sutiau-mp3/5/5422(1)",
+            "seq": 1
+          },
+          {
+            "text": {
+              "twh": "俗語",
+              "twl": "sio̍k-gí"
+            },
+            "audio": "sutiau-mp3/4/4748(1)",
+            "seq": 2
+          },
+          {
+            "text": {
+              "twh": "麻雀",
+              "twl": "muâ-tshiok"
+            },
+            "audio": "sutiau-mp3/8/8123(1)",
+            "seq": 3
+          }
+        ]
+      }
+    ],
+    "typeName": {
+      "en": "ending short stop sounds",
+      "twh": "入聲韻尾 (-k)",
+      "twl": "ji̍p-siann ūn-bué",
+      "zh-tw": "入聲韻尾"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+/* import font 必須在最上面 */
+/* 載入 Noto Sans 參數 Unicode U+0300 ~ U+0358 支援所有聲調字母+白話字 */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&text=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%CC%80%CC%81%CC%82%CC%83%CC%84%CC%85%CC%86%CC%87%CC%88%CC%89%CC%8A%CC%8B%CC%8C%CC%8D%CD%98&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@200..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&text=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%CC%80%CC%81%CC%82%CC%83%CC%84%CC%85%CC%86%CC%87%CC%88%CC%89%CC%8A%CC%8B%CC%8C%CC%8D%CD%98&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chiron+Hei+HK:ital,wght@0,200..900;1,200..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-mono:
+    "Noto Sans Mono", "Chiron Hei HK", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-family:
+    "Noto Sans", "Chiron GoRound TC", ui-sans-serif, system-ui, sans-serif;
+}
